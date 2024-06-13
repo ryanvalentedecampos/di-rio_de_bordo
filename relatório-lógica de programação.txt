@@ -1,0 +1,17 @@
+dia 18/4
+criamos um projeto em java
+criamos um meno pro joga de adivinhação e salvamos no git hub
+
+
+
+
+16/5
+criamos mais uma versão do jogo porque algumas pessoas não tinham 
+fizemos o menu e a estrutura do jogo usando o (if...else)
+no jogo você informa um numero e o jogo informa se esta certo ou errado
+
+
+23/5
+botamos logica no jogo
+colocamos o laço de repetição para o jogador jogar mais de uma vez,para isso utilizamos o laço for
+baixamos o projeto para a situção de aprendizagem usando o spring initialir 
