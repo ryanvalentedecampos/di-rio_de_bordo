@@ -1,0 +1,19 @@
+20/06
+excluimos o repositorio "eventos"
+criamos o repositorio "eventos_api"
+criamos o projeto usando o spring initializr 
+colocamos uma dependencia do open api no inteli j
+
+src-é a raiz de todo projeto
+eventosaplication-é onde inicializamos o projeto
+temos uma pasta de testes
+            
+         controler
+               
+    | /buscar=get             |
+    | /buscar/id=get          |
+    |                         |  =>    repositorio    => jpa   => dentro da api eventos  => database  
+    |  /adicionar=post        |
+    |  /remover=delete        |
+
+CRIAMOS A CLASSE TIPO E ENDERECO
