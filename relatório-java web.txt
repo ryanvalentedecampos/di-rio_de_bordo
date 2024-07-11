@@ -16,6 +16,7 @@ temos uma pasta de testes
     |  /adicionar=post        |
     |  /remover=delete        |
 
+<<<<<<< HEAD
 CRIAMOS A CLASSE TIPO E ENDERECO
 
 27/06
@@ -34,3 +35,6 @@ criamos um jogo tipo space invaders,o jogo que eu fiz deu certo exceto o boss
 
 
 Hoje melhoramos nosso jogo(ao final da aula passada,os projeteis do jogador param de funcionar),então nesta aula arrumei e melhorei meu jogo
+=======
+CRIAMOS A CLASSE TIPO E ENDERECO
+>>>>>>> 39bf6a567954d6fc26e00e46d2842270fc13de2f
