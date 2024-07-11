@@ -1,0 +1,15 @@
+25/4
+aprendemos sobre o que é um banco de dados
+fizemos o modelo entidade relacionamento e salvamos no git hub
+o banco de dados serve para armazenar dados 
+
+
+2/5
+continuação do banco de dados
+usamos o mySQL para fazer o banco de dados
+utilizamos os comandos insert para inserir infomações nas tabelas
+
+
+9/5
+utilizamos a engenharia direta do mySQL para gerar o script para criar o banco de dados
+botamos algumas informações usando o insert e salvamos tudo no git hub

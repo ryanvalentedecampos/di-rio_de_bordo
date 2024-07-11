@@ -1,0 +1,9 @@
+6/6
+aprendemos sobre o UX
+procuramos sites de API gratuitos e tentar acessar pelo postman
+baixamos projeto modelo para usar o openAPI e Swagger para documentação automatica
+
+
+13/5
+mudamos o menu do swagger
+e fizemos o diario de bordo

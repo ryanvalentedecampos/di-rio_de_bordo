@@ -1,0 +1,23 @@
+dia 4/4
+integração com o Sandro
+tour pelo senai
+desafio no kahoot
+desafio de logica
+
+
+dia 11/4
+crimos nossa conta no git hub
+apredemos os comandos do git bash:
+git init
+git clone
+git add
+git status
+git commit
+git commit -m
+git log 
+git push
+git pull
+git branch
+git branch -remotes
+git branch<nome>
+git branch -d<nome>
