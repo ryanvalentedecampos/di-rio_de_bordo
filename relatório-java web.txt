@@ -27,4 +27,10 @@ eu criei um jogo de adivinhação sozinho e deu certo
 
 04/07
 
-criams um jogo tipo space invaders,o jogo que eu fiz deu certo exceto o boss 
+criamos um jogo tipo space invaders,o jogo que eu fiz deu certo exceto o boss 
+
+
+11/07
+
+
+Hoje melhoramos nosso jogo(ao final da aula passada,os projeteis do jogador param de funcionar),então nesta aula arrumei e melhorei meu jogo
