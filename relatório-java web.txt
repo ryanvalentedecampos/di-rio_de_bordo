@@ -44,3 +44,8 @@ hoje voltamos ao intelej e criamos os controllers e os repositories
 08/08
 
 hoje fizemos um passeio pela oficina da industri 4.0 e fizemos os controllers e repositories de evento e endereco
+
+
+15/08
+
+criamos as classes,controllers e repositories das entidades:usuário,cliente,midia,ingresso e fornecedor no inetellij
