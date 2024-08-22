@@ -49,3 +49,8 @@ hoje fizemos um passeio pela oficina da industri 4.0 e fizemos os controllers e 
 15/08
 
 criamos as classes,controllers e repositories das entidades:usuário,cliente,midia,ingresso e fornecedor no inetellij
+
+
+
+22/08
+testamos a api no postman

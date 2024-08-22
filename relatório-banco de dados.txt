@@ -13,3 +13,43 @@ utilizamos os comandos insert para inserir infomações nas tabelas
 9/5
 utilizamos a engenharia direta do mySQL para gerar o script para criar o banco de dados
 botamos algumas informações usando o insert e salvamos tudo no git hub
+
+
+22/08
+
+apresentação:tipos de dados, MER e SQL
+
+MER:pra que serve?O banco de dados agrupa dados sobre um mesmo assunto, armazenando assim diversos dados como documentos, endereços, serviços, clientes, entre outros. Desta forma, um banco de dados serve para que estes dados sejam armazenados e consumidos posteriormente.
+As entidades podem se relacionar entre si, havendo assim uma associação, que conhecemos como relacionamento, que normalmente são representados por verbos. Como, por exemplo, “uma pessoa trabalha para uma empresa”. Também podemos classificar os relacionamentos em três tipos:
+
+Relacionamento UM PARA UM (1:1): Onde uma entidade X se associa unicamente a uma ocorrência da entidade Y.
+Relacionamento UM PARA MUITOS (1:N): Onde uma entidade X se associa a várias ocorrências da entidade Y, porém, a entidade Y pode apenas se associar a uma ocorrência da entidade X.
+Relacionamento MUITOS PARA MUITOS (N:N): Onde a entidade X o pode se associar a várias ocorrências da entidade Y e a entidade Y pode também se associar a várias ocorrências da entidade X.
+
+
+
+
+SQL:A Linguagem de consulta estruturada (SQL) é uma linguagem de programação para armazenar e processar informações em um banco de dados relacional. 
+Um banco de dados relacional armazena informações em formato tabular, com linhas e colunas representando diferentes atributos de dados e as várias relações entre os valores dos dados. 
+Você pode usar instruções SQL para armazenar, atualizar, remover, pesquisar e recuperar informações do banco de dados.
+Também pode usar SQL para manter e otimizar a performance do banco de dados.
+SQL funciona a partir de comandos que se comunicam diretamente com um sistema de gerenciamento de banco de dados (SGBD). 
+
+Esses comandos são usados para realizar diversas operações, como:
+
+Consultas (SELECT): recupera dados de uma ou mais tabelas;
+Inserção (INSERT): adiciona novos registros em uma tabela;
+Atualização (UPDATE): modifica dados existentes em uma tabela;
+Exclusão (DELETE): remove dados de uma tabela;
+Criação (CREATE): cria novas tabelas e outros objetos no banco de dados;
+Alteração (ALTER): modifica a estrutura de tabelas existentes;
+Exclusão de estrutura (DROP): remove tabelas ou outros objetos.
+Com isso, os comandos SQL são enviados ao SGBD, que executa as instruções e retorna os resultados ou confirma as modificações realizadas no banco de dados.
+
+
+tipos de dados:Dados qualitativos: tudo o que se refere à qualidade de algo. Em geral, são representados com palavras ou conceitos. Por exemplo: cores, nacionalidades, nomes, gênero, etc. 
+   Dados quantitativos: dados que são mensuráveis ou se referem a números. Por exemplo: o número de bolas de golfe, o tamanho, o preço, a nota em uma prova, sua idade e etc.
+                    Há também outras categorias com as quais você pode se deparar:
+   Dados categóricos: são os que categorizam o item que você está descrevendo. A condição das bolas de golfe, por exemplo. Elas são novas, quebradas ou consertadas?  
+   Dados discretos: são dados numéricos, representados por números inteiros não negativos. Por exemplo, a contagem das bolas de golfe. Só pode haver um número inteiro de bolas de golfes (0,3 bolas seria impossível). Número de pessoas ou quantidade de músicas em um álbum são outros exemplos.
+   Dados contínuos: são dados onde também é possível termos “número quebrados”, ou seja, todos os valores são possíveis. O tamanho das bolas de golfes pode ser qualquer valor, 10,53 mm, 10,54 mm ou 10,536 mm. O tamanho do pé é outro exemplo, ao contrário do tamanho do calçado, que é um dado discreto.
